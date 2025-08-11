@@ -38,6 +38,7 @@ Testing will focus on these core features:
 ---
 
 ## 📁 Folder Structure
+
 '''
 ├── Test_Plan/
 │ └── Test_Plan_PrestaShop.docx
@@ -51,6 +52,7 @@ Testing will focus on these core features:
 │ └── Execution_Report.xlsx
 └── README.md
 '''
+
 ---
 
 ## 🧪 Tools Used
